@@ -1,10 +1,8 @@
 D:\dev\practice\BikeStore\BikeStore.Data\bin\Debug\netcoreapp3.0\BikeStore.Data.deps.json
 D:\dev\practice\BikeStore\BikeStore.Data\bin\Debug\netcoreapp3.0\BikeStore.Data.dll
+D:\dev\practice\BikeStore\BikeStore.Data\bin\Debug\netcoreapp3.0\BikeStore.Data.pdb
 D:\dev\practice\BikeStore\BikeStore.Data\obj\Debug\netcoreapp3.0\BikeStore.Data.csprojAssemblyReference.cache
 D:\dev\practice\BikeStore\BikeStore.Data\obj\Debug\netcoreapp3.0\BikeStore.Data.AssemblyInfoInputs.cache
 D:\dev\practice\BikeStore\BikeStore.Data\obj\Debug\netcoreapp3.0\BikeStore.Data.AssemblyInfo.cs
-D:\dev\practice\BikeStore\BikeStore.Data\bin\Debug\netcoreapp3.0\BikeStore.Data.runtimeconfig.json
-D:\dev\practice\BikeStore\BikeStore.Data\bin\Debug\netcoreapp3.0\BikeStore.Data.runtimeconfig.dev.json
-D:\dev\practice\BikeStore\BikeStore.Data\bin\Debug\netcoreapp3.0\BikeStore.Data.pdb
 D:\dev\practice\BikeStore\BikeStore.Data\obj\Debug\netcoreapp3.0\BikeStore.Data.dll
 D:\dev\practice\BikeStore\BikeStore.Data\obj\Debug\netcoreapp3.0\BikeStore.Data.pdb
